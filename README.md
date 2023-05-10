@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me tristanormsby99@gmail.com
+- 📫 How to reach me tristanormsby@gmail.com
+- 
 
 <!---
 TrixMixs/TrixMixs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
